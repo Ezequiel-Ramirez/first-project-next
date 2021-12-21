@@ -1,4 +1,5 @@
-# Screenshot
+# Proyecto de práctica inicial Next JS
+## Visitar sitio diseñado[click aqui](https://agenda-redux-d1pes5umr-ezequiel-ramirez.vercel.app/)
 ![](screenshot.png)
 
 # Resources
